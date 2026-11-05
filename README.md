@@ -23,26 +23,7 @@
 > 🔗 **Website Demo：**  
 > https://github.com/marco19790512/mySite.git
 
-```text
-https://your-username.github.io/your-repository/
 ```
-
----
-
-## 🖼️ Preview
-
-<div align="center">
-
-<!-- 將下方圖片網址替換為 GitHub Repository 中的實際截圖 -->
-
-![Website Preview](./assets/preview.png)
-
-*Personal Professional Website Preview*
-
-</div>
-
-> 💡 **建議：** 在 Repository 建立 `assets` 資料夾，放入網站首頁截圖，檔名可設定為 `preview.png`。
-
 ---
 
 ## 👤 About Me
